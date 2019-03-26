@@ -1,0 +1,7 @@
+{
+  "name": "import-suggestions-for-styled-components",
+  "version": "1.0.0",
+  "dependencies": {
+    "styled-components": "3.3.2"
+  }
+}
